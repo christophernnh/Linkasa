@@ -1,0 +1,147 @@
+1. Human Resource Director C
+	- view job vacancy
+	- create job vacancy
+	- create employee training
+	- update employee
+	- insert employee
+	- delete employee
+2. Flight Operations Manager C
+	- update flight status
+	- view flight status
+	- assign flight crew
+	- view flight crew
+	- staff chat
+3. Customer service manager C
+	- View feedback statistic
+	- update feedback
+	- delete global message
+	- send global chat
+	- update global broadcast priority
+4. Information Desk Staff C
+	- view flight data
+	- insert staff chat
+	- view baggage
+	- view terminal maps
+	- view lost and found items
+5. Check in staff C
+	- insert baggage details
+	- add baggage photo
+	- view boarding pass
+	- create boarding pass
+	- print boarding pass
+	- cancel boarding pass
+	- view,update seating chart -> flight information
+	- insert staff chat
+6. Gate Agents 
+	- view seating charts
+	- view flight data
+	- send global chat
+7. Customs and Border Control Officer C
+	- Insert Passport
+	- Update Passport details
+	- Delete Passport
+	- view Passport
+	- view flight data
+	- insert visa
+	- update visa details
+	- delete visa
+	- view visa
+	- create inspection document
+	- view inspection document
+	- update inspection document
+	- send global chat message
+8. Landside Operations Manager
+	- view Transportation schedule
+	- update transportation schedule
+	- view Cargo Information
+	- view Parking facility
+	- Assign Landside operations Staff
+	- View landside operations employee
+	- send global chat message
+9. Maintenance Manager
+	- Assign MaintenancePersonel
+	- View Maintenance Schedule
+	- Insert Maintenance Schedule
+	- Delete Maintenance Schedule
+	- Update Maintenance Schedule
+	- Send Staff chat
+10. Fuel Manager
+	- Create Fuel Delivery Schedule
+	- View Fuel Storage Inventory
+	- Log fuel delivery status
+	- view fuel delivery status
+	- assign fuel staff
+	- view fuel staff
+	- view fuel delivery schedule + details
+	- send staff chat
+11. Baggage Secutiry Supervisor
+	- Insert security report
+	- view security personel
+	- view security trends
+	- update baggage security status
+	- view security reports
+	- view baggage
+12. CSO C
+	- create security analysis
+	- view security trends
+	- view security personnel
+	- view security Reports
+13. Ground Handling Manager
+	- view fuel delivery schedule
+	- view baggages
+	- assign ground handling employees
+	- send global chat message
+14. Cargo Handler
+	- update cargo status
+	- view cargo
+	- update cargo storage
+	- view cargo storage
+	- insert message to staff chat
+15. Airport Operations Manager
+	- view weather conditions
+	- view baggages
+	- view flight data
+	- insert message to staff chat
+	- send global chat message
+16. Cargo Manager
+	- Create cargo delivery Schedule
+	- insert message to staff chat
+	- view cargo storage
+17. CEO
+	- view airport financial report
+	--> includes
+	- view cargo information
+	- view fuel stroage inventory
+	- view flight data
+	- view baggage
+	- view cargo storage
+	- view maintenance schedule
+	- view fund request
+18. CFO
+	- view airport financial report
+	- view fund request
+	- accept fund request
+	- review fund request
+19. Civil Engineering Manager
+	- plan renovation
+	- view renovations
+	- create fund request
+	- view fund request
+	- delete fund request
+20. Logistics Manager
+	- create logistics report
+		-> include -> view cargo storage + view cargo
+	- insert to external party chat
+	-insert to staff chat
+21. COO C 
+	- update maintenane schedule
+	- view maintenance schedule
+	- insert maintenance schedule
+	- view consumption report
+	- plan flights
+	- insert to global chat
+	
+	
+
+	
+	
